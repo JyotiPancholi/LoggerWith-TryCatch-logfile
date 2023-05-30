@@ -1,0 +1,2 @@
+2023-05-30 12:00:07.782  WARN 23012 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-05-30 12:09:20.987 ERROR 18500 --- [http-nio-9090-exec-1] c.l.e.l.controller.LoggerController      : An exception occurred: / by zero
